@@ -1,7 +1,7 @@
 name: HardNotComplicated
 favicon: null
-layout_spectrum: 0.06209262344054878
-typography_spectrum: 0.7379220700822771
+layout_spectrum: 0.75188
+typography_spectrum: 0.7235
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.938826414057985
-  lightness: 0.12209699931554496
-  saturation: 0.13141403743065894
-  rhythmicContrast: 0.2650722118560225
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
